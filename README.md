@@ -1,1 +1,3 @@
-# y1s2-mainproject
+# Covid 19 Management Web application
+
+- Coming Soon -
